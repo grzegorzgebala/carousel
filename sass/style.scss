@@ -1,0 +1,31 @@
+main {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.carousel {
+	width: 400px;
+	height: 300px;
+	border: 2px solid red;
+	overflow: auto;
+}
+
+ul {
+	width: 2000px;
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+	width: 400px;
+	height: 300px;
+	list-style: none;
+	float: right;
+}
+
+img {
+	width: 400px;
+	height: 300px;
+}
