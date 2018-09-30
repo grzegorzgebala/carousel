@@ -4,6 +4,6 @@ main { display: -ms-flexbox; display: flex; -ms-flex-pack: center; justify-conte
 
 ul { width: 2000px; list-style-type: none; margin: 0; padding: 0; }
 
-li { width: 400px; height: 300px; list-style: none; float: right; }
+li { width: 400px; height: 300px; list-style: none; float: left; }
 
 img { width: 400px; height: 300px; }
